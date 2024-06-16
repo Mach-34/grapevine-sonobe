@@ -18,4 +18,4 @@ circom grapevine.circom \
 
 # cleanup
 mv ./artifacts/grapevine_js/grapevine.wasm ./artifacts
-rm -rf ./artifacts/grapevine_js
+# rm -rf ./artifacts/grapevine_js

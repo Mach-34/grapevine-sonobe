@@ -190,6 +190,7 @@ mod test {
             auth_secrets: [None, Some(AUTH_SECRETS[0].clone())],
             chaff: false,
         };
+
         f_circuit.set_private_input(step_0_inputs);
 
         // assign z0
